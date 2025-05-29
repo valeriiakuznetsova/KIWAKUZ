@@ -1,2 +1,2 @@
-# WA-2025-Medentsov-Yehor
+# WA-2025-Valeriia-Kuznetsova
 WA2025 Repo
